@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CreateVariables4"
+rootProject.name = "OfekLeviExe4"
 include ':app'
